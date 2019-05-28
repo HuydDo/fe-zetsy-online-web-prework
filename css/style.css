@@ -23,3 +23,6 @@ body {
 h1 {
   font-family: "Clicker Script", cursive;
 }
+div:hover {
+  background-color: green;
+}
