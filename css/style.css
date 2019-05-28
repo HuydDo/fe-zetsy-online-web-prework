@@ -2,7 +2,7 @@
 
 /* link the web font used for the level 1 heading here */
 
-@import "fonts/Baskerville.ttc"
+@import (fonts/Baskerville.ttc);
 /*////////// Global Styles //////////*/
 
 body {
