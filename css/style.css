@@ -2,6 +2,7 @@
 
 /* link the web font used for the level 1 heading here */
 <link rel="stylesheet" href="css/style.css">
+@import "fonts/"
 /*////////// Global Styles //////////*/
 
 body {
