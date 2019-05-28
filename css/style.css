@@ -23,8 +23,8 @@ body {
 h1 {
   font-family: "Clicker Script", cursive;
 }
-body {transition: background-color 0.5s ease;
+img {transition: background-color 0.5s ease;
 }
-body:hover {
+img:hover {
   background-color: green;
 }
